@@ -1,4 +1,4 @@
-# Mama's  PC for work
+# My Mom's  PC for work
 
 ### Components:
 
