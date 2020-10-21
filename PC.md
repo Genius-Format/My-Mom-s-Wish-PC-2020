@@ -12,5 +12,5 @@ SSD | 970 Evo 500 GB M.2-2280 NVME | Samsung | Newegg | $79.00 | [Buy](https://p
 Case | LANCOOL II-X ATX Mid Tower | Lian Li | Amazon | $89.99 | [Buy](https://pcpartpicker.com/product/kRFKHx/lian-li-lancool-ii-x-atx-mid-tower-case-lancool-ii-x)
 Power Supply | RM (2019) 750 W 80+ Gold Certified Fully Modular ATX | Corsair | Amazon | $124.99 | [Buy](https://pcpartpicker.com/product/6Y66Mp/corsair-rm-2019-750-w-80-gold-certified-fully-modular-atx-power-supply-cp-9020195-na)
 WiFi Card  | PCE-AC55BT B1 PCIe x1 802.11a/b/g/n/ac | Asus | Best Buy | $37.99 | [Buy](https://pcpartpicker.com/product/6Zs8TW/asus-pce-ac55bt-b1-none-wi-fi-adapter-pce-ac55bt-b1)
-==========|=======|=======|========|=======|=====
+==========|====================================================|=======|========|=======|=====
 TOTAL | N/A | N/A | N/A | $978.85 | [Buy All](https://pcpartpicker.com/list/TfzKBc)
